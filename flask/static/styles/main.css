@@ -1,0 +1,9 @@
+.coming-soon{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+#banana{
+  overflow: hidden;
+  height: 245px;
+}
