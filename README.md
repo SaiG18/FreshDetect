@@ -1,5 +1,7 @@
 # FreshDetect
 
+## Devpost: https://devpost.com/software/fresh-detect
+
 ## Built With
 
 - Python
