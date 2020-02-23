@@ -2,7 +2,7 @@
 
 ## Devpost: https://devpost.com/software/fresh-detect
 
-- Best IBM Disaster Preparedness & Relief Solutions @ HackMIT 2019
+- 🏆 Best IBM Disaster Preparedness & Relief Solutions @ HackMIT 2019
 
 ## Built With
 
