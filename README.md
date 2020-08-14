@@ -4,7 +4,7 @@
 
 - 🏆 Best IBM Disaster Preparedness & Relief Solutions @ HackMIT 2019
 
-## Demo: https://youtu.be/zKvd1JwJ4Po
+## ![Demo](https://youtu.be/zKvd1JwJ4Po)
 
 ## Built With
 
